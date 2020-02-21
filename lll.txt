@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is git learn newest
 gitmerge
 git no pull
+=======
+master
+>>>>>>> 4a9066753fd8cdec6e4de2e161cdd0e9dc05bd70
