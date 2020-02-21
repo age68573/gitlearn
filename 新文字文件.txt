@@ -1,0 +1,84 @@
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (master -> origin)
+£f git checkout -b age68573
+Switched to a new branch 'age68573'
+M       css/Price_prediction.css
+M       index.html
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git pull origin master
+From https://github.com/sjen802/ITRI-Front-End
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git add .
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git commit -m "date table"
+[age68573 d385709] date table
+ 2 files changed, 218 insertions(+), 36 deletions(-)
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git push origin master
+Everything up-to-date
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git push origin master age68573
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.45 KiB | 2.45 MiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote:
+remote: Create a pull request for 'age68573' on GitHub by visiting:
+remote:      https://github.com/sjen802/ITRI-Front-End/pull/new/age68573
+remote:
+To https://github.com/sjen802/ITRI-Front-End.git
+ * [new branch]      age68573 -> age68573
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (master -> origin)
+£f git pull origin master
+remote: Enumerating objects: 1, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (1/1), done.
+From https://github.com/sjen802/ITRI-Front-End
+ * branch            master     -> FETCH_HEAD
+   04d9211..192efb6  master     -> origin/master
+Updating 04d9211..192efb6
+Fast-forward
+ css/Price_prediction.css |  78 ++++++++++++++-------
+ index.html               | 176 ++++++++++++++++++++++++++++++++++++++++++++---
+ 2 files changed, 218 insertions(+), 36 deletions(-)
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (master -> origin)
+£f git checkout age68573
+Switched to branch 'age68573'
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git pull origin master
+From https://github.com/sjen802/ITRI-Front-End
+ * branch            master     -> FETCH_HEAD
+Updating d385709..192efb6
+Fast-forward
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git pull origin master
+From https://github.com/sjen802/ITRI-Front-End
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (age68573 -> origin)
+£f git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+C:\Users\jeremy\Desktop\coreUI\ITRI-Front-End (master -> origin)
+£f
