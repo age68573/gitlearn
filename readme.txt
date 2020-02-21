@@ -21,3 +21,10 @@ git pull origin master
 git add .
 git commit -m "commit名稱"
 git push origin master age68573 
+
+-----------------------------------------------------
+情境二: 以遠端為主:重拉pull　
+
+git fetch --all                          #取得所有branch
+git reset --hard origin/master  #放棄目前所有staging or unstaging 檔案, 還原成遠端版本origin/master
+git pull origin master               #重拉
