@@ -1,2 +1,3 @@
 this is git learn newest
 gitmerge
+git no pull
